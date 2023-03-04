@@ -19,7 +19,7 @@ I'm a student in a middle school.
 ## Programming language
 
 ![Java](https://img.shields.io/badge/Java-437291?logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffffff)
+[![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffffff)](https://python.org)
 
 ## Chat with me
 
