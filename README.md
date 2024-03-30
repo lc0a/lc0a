@@ -1,6 +1,8 @@
 ## 👋 Hi, there!
 
-I'm a student in a middle school.
+~~I'm a student in a middle school.~~
+
+I'm an otaku who dropped out of senior high school.
 
 ## Working environment
 
