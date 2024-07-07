@@ -9,9 +9,12 @@ Working for money. This can help me realize my dream.
 ## Working environment
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-33aadd?logo=archlinux&logoColor=ffffff)](https://archlinux.org)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078d4?logo=windows&logoColor=ffffff)
+
 ![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?logo=android&logoColor=ffffff)
 [![LineageOS 20](https://img.shields.io/badge/LineageOS%2020-167c80?logo=lineageos&logoColor=ffffff)](https://lineageos.org)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078d4?logo=windows&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?logo=android&logoColor=ffffff)
+[![LineageOS 21](https://img.shields.io/badge/LineageOS%2021-167c80?logo=lineageos&logoColor=ffffff)](https://lineageos.org)
 
 
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
@@ -19,11 +22,13 @@ Working for money. This can help me realize my dream.
 
 ## Devices in use
 
+![Pixel 7 Pro](https://img.shields.io/badge/Pixel%207%20Pro-815511?logo=google&logoColor=ffffff)
 [![Redmi Note 9 Pro 5G](https://img.shields.io/badge/Redmi%20Note%209%20Pro%205G-fd4900?logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote9pro)
 
 ## Programming language
 
 ![Java](https://img.shields.io/badge/Java-437291?logo=openjdk)
+![C](https://img.shields.io/badge/C-048?logo=cplusplus)
 [![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffffff)](https://python.org)
 
 ## Follow me on
