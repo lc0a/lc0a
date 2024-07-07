@@ -1,8 +1,10 @@
 ## 👋 Hi, there!
 
-~~I'm a student in a middle school.~~
+I'm an ambitious otaku who dropped out of senior high school.
 
-I'm an otaku who dropped out of senior high school.
+## 🤔 What am I doing now?
+
+Working for money. This can help me realize my dream.
 
 ## Working environment
 
@@ -24,7 +26,7 @@ I'm an otaku who dropped out of senior high school.
 ![Java](https://img.shields.io/badge/Java-437291?logo=openjdk)
 [![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffffff)](https://python.org)
 
-## Chat with me
+## Follow me on
 
 [![Bilibili](https://img.shields.io/badge/bilibili-LCア-grey?logo=bilibili&logoColor=white&labelColor=00aeec)](https://space.bilibili.com/1824588745)
 [![GitHub](https://img.shields.io/badge/GitHub-lc0a-grey?logo=github&logoColor=white&labelColor=24292f)](https://github.com/lc0a)
