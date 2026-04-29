@@ -4,7 +4,7 @@ I'm an ambitious otaku who dropped out of senior high school.
 
 ## 🤔 What am I doing now?
 
-Working for money. This can help me realize my dream.
+Nothing to do.
 
 ## Working environment
 
@@ -13,8 +13,8 @@ Working for money. This can help me realize my dream.
 
 ![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?logo=android&logoColor=ffffff)
 [![LineageOS 20](https://img.shields.io/badge/LineageOS%2020-167c80?logo=lineageos&logoColor=ffffff)](https://lineageos.org)
-![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?logo=android&logoColor=ffffff)
-[![LineageOS 21](https://img.shields.io/badge/LineageOS%2021-167c80?logo=lineageos&logoColor=ffffff)](https://lineageos.org)
+![Android 16](https://img.shields.io/badge/Android%2016-3ddc84?logo=android&logoColor=ffffff)
+[![LineageOS 23](https://img.shields.io/badge/LineageOS%2023-167c80?logo=lineageos&logoColor=ffffff)](https://lineageos.org)
 
 
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
